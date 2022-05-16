@@ -4,6 +4,7 @@
 ## Functional 
 * It must be possible to insert values ​​in a range greater than 0 and less than 2000000. 
 * The system must accept only numeric values ​​per screen. 
+* The system must not accept empty values.
 * The system must present the decimal values ​​entered per screen, in Roman numerals. 
 ## Non-Functional 
 * Roman numerals I, X, C, and M must be repeated three times when writing a composite number. 

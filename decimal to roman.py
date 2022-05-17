@@ -17,6 +17,17 @@ class DecimalRoman(object):
             value -=  self.romanValue[i]
       return romanOutput
   
+  def validateNum():
+    while True:
+      try:
+        x = input('Ingrese un valor')
+        x = int(x)
+      except ValueError:
+        print('Invalid value inserted')
+      
+  
+  decimal_to_roman(validateNum())
+  
     
 class TestDecimalRoman(unittest.TestCase):
   def setUp(self):

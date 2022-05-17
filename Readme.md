@@ -10,46 +10,40 @@ Making use of the algorithm for converting Arabic numerals or "decimals" to Roma
 
 A list of technologies used within the project:
 * [Python](https://www.python.org): Version 3.10.4 
-* [Unittest](https://example.com): Version 1234
+* [Unittest](https://docs.python.org/3/library/unittest.html): 
 ## Installation
 
-
-Install python
-```
-$ python --version
-
-```
 Verify the python version installed
 ```
 $ python --version
 ```
+
+Install python
+
+ * [Link de Descarga](https://ubunlog.com/python-3-9-como-instalar-en-ubuntu-20-04/)
+
+
 Clone the repository
 ```
 $ git clone https://github.com/samyrd309/Requerimientos--Criterios--Caso
 ```
-Search the file
 
-```
-$ cd ../path/to/the/file
-```
 Excecute the python file
 1. Open the terminal by searching for it in the dashboard or pressing Ctrl + Alt + T.
 
 2. Navigate the terminal to the directory where the script is located using the cd command.
 ```
-$ $ cd ../Requerimiento, Criterios de aceptacion,, casos de prueba/decimaltoRoman.py
+$ cd ../Requerimiento, Criterios de aceptacion,, casos de prueba
 ```
 3. Type python SCRIPTNAME.py in the terminal to execute the script.
-```
-$ python decimaltoRoman.py
-```
+  ```
+  $ python decimaltoRoman.py
+  ```
 
 # Documentation
 
-```
-$ cd ../Documentos/Cuestionario.md
-```
-```
-$ cd ../Documentos/Requerimiento, Criterios de aceptacion,, casos de prueba.md
-```
+* [Cuestionario](/Documentos/Cuestionario)
 
+* [Requerimientos, Criterios de aceptacion, Casos de prueba](/Documentos/Requerimiento,Criteriosdeaceptacion,casosdeprueba)
+
+* [Coding Link](https://youtube.com/playlist?list=PLS1EHApfBXygwBv2HzzWzMfHtUUdcrA9V)

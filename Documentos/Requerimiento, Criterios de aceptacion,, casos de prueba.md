@@ -57,10 +57,14 @@
 # Casos de prueba
 ## End-to-End (from the UI)
 
-* CP-0: 
-* CP-1:
-* CP-2:
+* CP-0: Insertar valores nulos
+* CP-1: Insertar  valores de texto
+* CP-2: Insertar  valores enteros
+* CP-3: Insertar valores menores a 0
+* CP-4: Insertar valores mayores a 1999999
+* CP-5: Insertar valres mayores a 0 y menores a 1999999
 
-## Unitarios (caja blanca, código, bajo nivel)
+## Unitarios 
+
 
  

@@ -116,10 +116,11 @@ xUnit architecture
 **10. Tomando el algoritmo de conversión de números arábigos o "decimales" a números Romanos:**
   * **Cree un documento donde se listen los Requerimientos, Criterios de Aceptación y Casos de Prueba para una aplicación de consola**
   * **Los casos de prueba deben ser de dos categorías: End-To-End (desde el UI) y Unitarios (caja blanca, código, bajo nivel)**
-
-  **Revisar el archivo Requerimiento, Criterios de aceptación y casos de prueba**
 ----
+* Revisasr Archivo Requerimiento, Criterios de aceptacion,, casos de prueba.py
+
 **11. Utilizando el lenguaje de su preferencia cree cinco o mas casos de prueba unitarios automatizados utilizando un framework de automatización de pruebas para el algoritmo en cuestion**
 
-  
 ----
+
+* Revisasr Archivo testdecimaltoRoman.py

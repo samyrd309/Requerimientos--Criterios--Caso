@@ -57,14 +57,32 @@
 # Test Case
 ## End-to-End (from the UI)
 
-* CP-0: Insert null values
-* CP-1: Insert text values
-* CP-2: Insert integer values
-* CP-3: Insert values ​​less than 0
-* CP-4: Insert values ​​greater than 1999999
-* CP-5: Insert values ​​greater than 0 and less than 1999999
+* TC-0: Insert null values
+* TC-1: Insert text values
+* TC-2: Insert integer values
+* TC-3: Insert values ​​less than 0
+* TC-4: Insert values ​​greater than 1999999
+* TC-5: Insert values ​​greater than 0 and less than 1999999
 
 ## Unitarios 
+###
+TC-0: Insert null values
+#### Input data
+* None
+#### Steps
+| step No. |   Step description   | Expected result                       |
+|:--------:|:--------------------:|---------------------------------------|
+|     1    | Inserts a None value | The input value returns a message: 'Invalid value. Please insert a not null value.' |
+
+ 
+ TC-0: Insert null values
+#### Input data
+* None
+#### Steps
+| step No. |   Step description   | Expected result                       |
+|:--------:|:--------------------:|---------------------------------------|
+|     1    | Inserts a None value | The input value returns a message: 'Invalid value. Please insert a not null value.' |
+
 
 
  

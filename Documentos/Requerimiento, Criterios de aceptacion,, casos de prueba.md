@@ -54,18 +54,17 @@
 * *And*: The user presses enter. 
 * *Then*: The system displays the number inserted by the user on the screen. ---- # Test cases ## End-to-End (From UI) ##
 
-# Casos de prueba
+# Test Case
 ## End-to-End (from the UI)
 
-* CP-0: Insertar valores nulos
-* CP-1: Insertar  valores de texto
-* CP-2: Insertar  valores enteros
-* CP-3: Insertar valores menores a 0
-* CP-4: Insertar valores mayores a 1999999
-* CP-5: Insertar valres mayores a 0 y menores a 1999999
+* CP-0: Insert null values
+* CP-1: Insert text values
+* CP-2: Insert integer values
+* CP-3: Insert values ​​less than 0
+* CP-4: Insert values ​​greater than 1999999
+* CP-5: Insert values ​​greater than 0 and less than 1999999
 
 ## Unitarios 
-
 
 
  

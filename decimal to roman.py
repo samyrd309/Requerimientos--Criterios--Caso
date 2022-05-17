@@ -3,6 +3,7 @@ import unittest
 class DecimalRoman(object):
   romanValue = [1000000, 900000, 500000, 400000, 100000, 90000, 50000, 40000, 10000, 9000, 5000, 4000, 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
   romanSymbols = ['M`', 'C`M`', 'D`', 'C`D`', 'C`', 'X`C`', 'L`', 'X`L`','X`','I`X`','V`','I`V`','M','CM','D','CD','C','XC','L', 'XL', 'X', 'IX','V','IV','I' ]
+  
   def decimal_to_roman(self, value):
     
     while value != None:
@@ -16,7 +17,6 @@ class DecimalRoman(object):
             romanOutput += self.romanSymbols[i]
             value -=  self.romanValue[i]
       return romanOutput
-  
   def validateNum():
     while True:
       try:
@@ -24,9 +24,8 @@ class DecimalRoman(object):
         x = int(x)
       except ValueError:
         print('Invalid value inserted')
-      
   
-  decimal_to_roman(validateNum())
+    
   
     
 class TestDecimalRoman(unittest.TestCase):
